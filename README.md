@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me: paulobarberena@yahoo.com
 - 😄 Pronouns: He, Him
-- ⚡ Fun fact: ADHD with coding hyperfocus
+- ⚡ Fun fact: Linux user
 
 <!---
 paulobarberena/paulobarberena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
